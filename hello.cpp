@@ -2,7 +2,7 @@
 
 int f(){
     printf("function f");
-    return 0;
+    return 1;
 }
 
 int main(){
